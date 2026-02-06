@@ -1,0 +1,9 @@
+# robots.txt — Athera Technologies
+# https://www.atheratech.com
+
+User-agent: *
+Allow: /
+Disallow:
+
+# Sitemap
+Sitemap: https://www.atheratech.com/sitemap.xml
