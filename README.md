@@ -2,7 +2,7 @@
 
 The proof of concept website for **Athera Technologies, UAB** — a technology company delivering automation, data engineering, cyber security, and custom software development for businesses across the EU.
 
-> **Live site:** [www.athera.egidit.com](https://www.athera.egidit.com)
+> **Live site:** [www.athera.egidit.com](https://athera.egidit.com)
 
 ---
 
@@ -238,6 +238,7 @@ This project is proprietary software. All rights reserved by **Athera Technologi
   <a href="mailto:info@atheratech.com">info@atheratech.com</a> · <a href="tel:+37061520993">+370 61 520 993</a><br>
   <a href="https://www.linkedin.com/company/athera-tech/">LinkedIn</a>
 </p>
+
 
 
 
