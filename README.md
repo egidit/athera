@@ -1,6 +1,6 @@
 # Athera Technologies — Corporate Website
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.atheratech.com&label=atheratech.com)](https://www.atheratech.com)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.ather.egidit.com&label=athera.egidit.com)](https://www.athera.egidit.com)
 [![License](https://img.shields.io/badge/license-proprietary-blue)](#license)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](#tech-stack)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](#tech-stack)
@@ -244,4 +244,5 @@ This project is proprietary software. All rights reserved by **Athera Technologi
   <a href="mailto:info@atheratech.com">info@atheratech.com</a> · <a href="tel:+37061520993">+370 61 520 993</a><br>
   <a href="https://www.linkedin.com/company/athera-tech/">LinkedIn</a>
 </p>
+
 
