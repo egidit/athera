@@ -8,7 +8,7 @@
 
 The official website for **Athera Technologies, UAB** — a technology company delivering automation, data engineering, cyber security, and custom software development for businesses across the EU.
 
-> **Live site:** [www.atheratech.com](https://www.atheratech.com)
+> **Live site:** [www.athera.egidit.com](https://www.athera.egidit.com)
 
 ---
 
@@ -242,5 +242,6 @@ This project is proprietary software. All rights reserved by **Athera Technologi
   <strong>Athera Technologies, UAB</strong><br>
   VAT: LT100016921313 · Entity code: 306720328<br>
   <a href="mailto:info@atheratech.com">info@atheratech.com</a> · <a href="tel:+37061520993">+370 61 520 993</a><br>
-  <a href="https://www.linkedin.com/company/atheratech/">LinkedIn</a>
+  <a href="https://www.linkedin.com/company/athera-tech/">LinkedIn</a>
 </p>
+
